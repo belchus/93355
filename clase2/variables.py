@@ -25,7 +25,7 @@ print(type(destacado))      # -> <class 'bool'>
 print(f"El post {titulo_post} fue escrito por {autor}")
 
 # ============================================================
-# 5. CONVENCIONES PARA NOMBRAR VARIABLES
+# CONVENCIONES PARA NOMBRAR VARIABLES
 # ============================================================
 # Buenas prácticas (snake_case: minúsculas separadas por guion bajo):
 #   cantidad_likes
